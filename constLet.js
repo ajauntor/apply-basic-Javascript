@@ -9,3 +9,6 @@ let myName = "AJ Auntor"
 myName = "Hasan Raza"
 myName = 15
 console.log(myName);
+
+const myName = "AJ Auntor"
+console.log(myName);
