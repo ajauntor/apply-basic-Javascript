@@ -1,8 +1,4 @@
-var flowers = "Rose"
-if(flowers.length > 5){
-    flowers = "Belly"
-}
-console.log(flowers);
+
 
 const myName = "AJ Auntor"
 console.log(myName);
