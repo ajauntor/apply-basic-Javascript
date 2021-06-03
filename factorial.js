@@ -7,5 +7,5 @@ function fact (num){
 }
 var result = fact(5);
 console.log(result);
-// var final = fact(8);
-// console.log(final);
+var final = fact(8);
+console.log(final);
