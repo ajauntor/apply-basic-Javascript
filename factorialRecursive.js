@@ -11,3 +11,4 @@ function facotor(n) {
 }
 // var result = facotor(12);
 // console.log(result);
+console.log(result);
