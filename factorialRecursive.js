@@ -12,7 +12,7 @@ function facotor(n) {
 var result = facotor(12);
 console.log(result);
 
-var result = facotor(12);
-console.log(result);
-var result = facotor(1200);
-console.log(result);
+// var result = facotor(12);
+// console.log(result);
+// var result = facotor(1200);
+// console.log(result);
