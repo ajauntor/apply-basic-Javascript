@@ -10,5 +10,4 @@ function facotor(n) {
     return facotor;
 }
 // var result = facotor(12);
-// console.log(result);
 console.log(result);
