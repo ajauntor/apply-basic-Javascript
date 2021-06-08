@@ -13,5 +13,5 @@ function inchToFeet(inch) {
 }
 var day1 = inchToFeet(144);
 console.log(day1);
-var da2 = inchToFeet(300);
-console.log(da2);
+// var da2 = inchToFeet(300);
+// console.log(da2);
