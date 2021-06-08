@@ -6,3 +6,8 @@
 // console.log(day1);
 // var da2 = inchToFeet(300);
 // console.log(da2);
+
+function inchToFeet(inch) {
+    var feet = inch / 12;
+    return feet;
+}
