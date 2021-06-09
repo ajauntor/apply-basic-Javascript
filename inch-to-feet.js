@@ -1,5 +1,5 @@
 function inchToFeet(inch) {
-    var feet = inch / 12;
+    // var feet = inch / 12;
     return feet;
 }
 var day1 = inchToFeet(144);
