@@ -9,9 +9,3 @@ var result = fact(5);
 console.log(result);
 var final = fact(8);
 console.log(final);
-
-
-var result = fact(5);
-console.log(result);
-var final = fact(9);
-console.log(final);
