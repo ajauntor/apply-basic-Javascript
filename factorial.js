@@ -13,5 +13,5 @@ console.log(final);
 
 // var result = fact(5);
 // console.log(result);
-// var final = fact(9);
-// console.log(final);
+var final = fact(9);
+console.log(final);
