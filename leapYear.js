@@ -13,7 +13,7 @@ function isLeapYear(leapYear) {
     if (remainder == 0) {
         return true;
     }
-    // else {
-    //     return false;
-    // }
+    else {
+        return false;
+    }
 }
