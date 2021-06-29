@@ -9,7 +9,7 @@
 // }
 
 function isLeapYear(leapYear) {
-    // const remainder = leapYear % 4;
+    const remainder = leapYear % 4;
     // if (remainder == 0) {
         return true;
     }
